@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Grocery App</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">LogIn</string>
+    <string name="signup">SignUp</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="or">OR</string>
+    <string name="Null">null</string>
+    <string name="new_user">New User? SignUp</string>
+    <string name="account_exist">Already have an Account? LogIn</string>
+</resources>
