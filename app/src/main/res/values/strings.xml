@@ -1,16 +1,25 @@
 <resources>
     <string name="app_name">Grocery App</string>
 
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="login">LogIn</string>
     <string name="signup">SignUp</string>
-    <string name="full_name">Full Name</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
     <string name="confirm_password">Confirm Password</string>
     <string name="forgot_password">Forgot Password?</string>
     <string name="or">OR</string>
     <string name="Null">null</string>
-    <string name="new_user">New User? SignUp</string>
-    <string name="account_exist">Already have an Account? LogIn</string>
+    <string name="new_user">New User?</string>
+    <string name="account_exist">Already have an Account?</string>
+    <string name="submit">Submit</string>
+    <string name="price">%s</string>
+    <string name="amt">%s</string>
+    <string name="heading_text">Add Items to Cart</string>
+    <string name="item_name">Enter item name</string>
+    <string name="item_quantity">Enter item quantity</string>
+    <string name="item_price">Enter item price</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="total_cost">Total Cost</string>
+    <string name="helper_text_message">Enter the email address\nassociated with your account</string>
 </resources>
