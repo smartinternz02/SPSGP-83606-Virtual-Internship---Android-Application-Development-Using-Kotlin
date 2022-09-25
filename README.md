@@ -19,3 +19,9 @@ different item names, their quantity, price and the total cost.
 [Android Studio](https://developer.android.com/studio)
 
 [Firebase](https://firebase.google.com/)
+
+## Appendix
+
+[Project Doc](https://drive.google.com/file/d/1nwX1ARrOPk-g6XcoB77a1dVA03XF_sX4/view?usp=sharing)
+
+[Demo Video](https://drive.google.com/file/d/1IHcdss0w9E4fciOYcSeyBa7bofyVeNVU/view?usp=sharing)
