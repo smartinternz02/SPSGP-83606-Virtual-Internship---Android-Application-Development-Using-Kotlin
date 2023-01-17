@@ -11,7 +11,7 @@ different item names, their quantity, price and the total cost.
 
 ## Screenshots
 
-![Mockup 1](https://github.com/HarshChawla0/Grocery/blob/master/Preview/Mockups/Mockup%201.png?raw=true)
+![Mockup 1](https://raw.githubusercontent.com/smartinternz02/SPSGP-83606-Virtual-Internship---Android-Application-Development-Using-Kotlin/master/Preview/Mockups/Mockup%201.png)
 
 ![Mockup 2](https://github.com/HarshChawla0/Grocery/blob/master/Preview/Mockups/Mockup%202.png?raw=true)
 ## Software Used
