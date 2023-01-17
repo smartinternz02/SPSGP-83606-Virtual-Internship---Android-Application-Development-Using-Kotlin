@@ -13,7 +13,7 @@ different item names, their quantity, price and the total cost.
 
 ![Mockup 1](/Preview/Mockups/Mockup%201.png)
 
-![Mockup 2](/Preview/Mockups/Mockup%202.png?raw=true)
+![Mockup 2](https://raw.githubusercontent.com/smartinternz02/SPSGP-83606-Virtual-Internship---Android-Application-Development-Using-Kotlin/master/Preview/Mockups/Mockup%202.png)
 ## Software Used
 
 [Android Studio](https://developer.android.com/studio)
